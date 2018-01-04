@@ -27,8 +27,8 @@ font-size: 17px;
 }
 
 .im1:hover {
- -webkit-transform: scale(1.03);
-  -ms-transform: scale(1.03);
-  transform: scale(1.03);
+ -webkit-transform: scale(1.01);
+  -ms-transform: scale(1.01);
+  transform: scale(1.01);
 
 }
